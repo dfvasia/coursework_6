@@ -8,6 +8,10 @@ authors = ["dfvasia"]
 python = "^3.10"
 psycopg2 = "^2.9.3"
 Django = "^4.0.4"
+djangorestframework = "^3.13.1"
+django-cors-headers = "^3.12.0"
+drf-spectacular = "^0.22.1"
+djangorestframework-simplejwt = "^5.1.0"
 
 [tool.poetry.dev-dependencies]
 
